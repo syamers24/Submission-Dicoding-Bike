@@ -5,7 +5,7 @@ import streamlit as st
 
 sns.set(style='dark')
 
-df = pd.read_csv('data_bersih.csv')
+df = pd.read_csv('Dashboard\data_bersih.csv')
 
 
     # grouping buat berdasarkan season dan tahun
