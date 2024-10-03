@@ -200,9 +200,13 @@ with col2:
     st.metric(label="Persentase Perbedaan", value=f"{percentage_difference:.2f}%", delta=f"{percentage_difference:.2f}%")
 st.markdown("""
 ### Kesimpulan 2 :
-- Kesimpulan dari Visual diatas, Banyak pengguna menyewa sepeda untuk keperluan sehari-hari, seperti perjalanan ke tempat kerja, sekolah, atau aktivitas lain yang berkaitan dengan rutinitas harian mereka, 
-Penurunan jumlah penyewa di hari libur menunjukkan bahwa penggunaan sepeda untuk kegiatan rekreasi atau hobi mungkin masih rendah.
- Ini bisa jadi karena faktor kurangnya promosi untuk penggunaan sepeda di akhir pekan, atau adanya alternatif transportasi lainnya. 
-### Strategi:
-- Meningkatkan lagi promosi yang secara spesifik pada hari libur sehingga dapat menaikan pengguna atau penyewa di hari libur atau akhir pekan, Misalnya, tawarkan diskon atau paket khusus untuk penyewaan sepeda di akhir pekan.
+Dari analisis yang dilakukan, diperoleh informasi mengenai rata-rata jumlah penyewaan sepeda per hari pada hari kerja dan akhir pekan/hari libur selama tahun 2011-2012. Hasilnya menunjukkan bahwa:
+
+- Rata-rata Penyewaan di Hari Kerja: Penyewaan sepeda cenderung lebih tinggi pada hari kerja dibandingkan dengan akhir pekan atau hari libur. Hal ini mungkin disebabkan oleh penggunaan sepeda sebagai moda transportasi sehari-hari bagi pekerja.
+- Rata-rata Penyewaan di Akhir Pekan/Hari Libur: Meskipun jumlah penyewa di akhir pekan atau hari libur lebih rendah, tren ini menunjukkan potensi untuk meningkatkan penggunaan sepeda di waktu-waktu tersebut.### Strategi:
+- Promosi Khusus untuk Akhir Pekan/Hari Libur:
+ Buat promosi atau diskon khusus untuk penyewaan sepeda di akhir pekan atau hari libur untuk menarik lebih banyak pengguna. Misalnya, tawarkan diskon 20% untuk penyewaan di akhir pekan atau paket keluarga.
+
+- Kampanye Pemasaran yang Menarik:
+Luncurkan kampanye pemasaran yang berfokus pada manfaat kesehatan dan lingkungan dari bersepeda, terutama selama akhir pekan. Gunakan media sosial, influencer, dan komunitas lokal untuk meningkatkan kesadaran.
 """)
